@@ -1,0 +1,4 @@
+dan      50
+frank      73
+james      20
+god_for_prez      89
