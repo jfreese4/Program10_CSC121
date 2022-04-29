@@ -1,0 +1,3 @@
+Josh		 Damage Dealt: 368		 Weapon: Sword
+Josh		 Damage Dealt: 392		 Weapon: Flail
+Josh		 Damage Dealt: 647		 Weapon: daggers
